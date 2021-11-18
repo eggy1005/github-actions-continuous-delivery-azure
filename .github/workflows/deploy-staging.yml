@@ -7,11 +7,6 @@ on:
 env:
   DOCKER_IMAGE_NAME: eggy1005-azure-ttt
   IMAGE_REGISTRY_URL: docker.pkg.github.com
-  #################################################
-  ### USER PROVIDED VALUES ARE REQUIRED BELOW   ###
-  #################################################
-  #################################################
-  ### REPLACE USERNAME WITH GH USERNAME         ###
   AZURE_WEBAPP_NAME: eggy1005
   #################################################
 
